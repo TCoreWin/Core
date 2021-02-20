@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\thecorewin\.Rider2018.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\thecorewin\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\thecorewin\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Core.-344163143.00" t="ExcludeRecursive" />
+    <e p="C:\Users\thecorewin\Documents\UnityProject\Core" t="IncludeFlat">
+      <e p="Core.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
