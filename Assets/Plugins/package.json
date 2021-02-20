@@ -4,7 +4,4 @@
     "version": "1.0.1",
     "unity": "2019.4",
     "description": "SquareDino HyperCasual Core"
-	"dependencies": {
-    "com.unity.postprocessing": "1.0.0"
-  }
 }
