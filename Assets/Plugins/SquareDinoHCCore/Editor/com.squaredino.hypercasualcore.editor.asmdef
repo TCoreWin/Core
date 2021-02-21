@@ -1,9 +1,6 @@
 {
     "name": "com.squaredino.hypercasualcore.editor",
-    "references": [
-        "",
-        ""
-    ],
+    "references": [],
     "includePlatforms": [
         "Editor"
     ],
@@ -13,12 +10,6 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": [
-        {
-            "name": "com.unity.postprocessing",
-            "expression": "",
-            "define": ""
-        }
-    ],
+    "versionDefines": [],
     "noEngineReferences": false
 }
